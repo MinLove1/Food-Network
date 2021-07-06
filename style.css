@@ -249,28 +249,42 @@ p{
     padding:15px 30px;
     border:2px solid green;
    text-transform: capitalize;
+   border-radius:10px;
 }
 
 .form .password {
     padding:15px 30px;
     border:2px solid green;
     text-transform: capitalize;
+    border-radius:10px;
 }
 
 .form .textarea {
     padding:15px 30px;
     border:2px solid green;
     text-transform:capitalize;
+    border-radius:10px;
 }
 
 
+
+
+footer {
+    background:black;
+    padding:30px 0px;
+}
+
 footer .footer  {
-    width:400px;
+    width:600px;
     margin:auto;
+    color:white;
+
 }
 
 .footer p {
     font-size:16px;
+    color:white;
+    text-align:center;
 
 }
 
