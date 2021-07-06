@@ -6,7 +6,7 @@ body{
 
 .header{
     width:100%;
-    height:80px;
+    height:65px;
     background:chocolate;
     margin-bottom:20px;
 }
@@ -107,6 +107,13 @@ body{
 p{
     font-size:19px;
     padding-bottom:3px;
+}
+
+.table-content .lunch{
+    font-size:19px;
+    padding-bottom:3px;
+    font-weight: 400;
+}
 }
 
 .about-content p {
